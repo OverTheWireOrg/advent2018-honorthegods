@@ -20,7 +20,7 @@ to serve 2.38 people:
 * 25 grams of breadcrumb
 * pepper, salt, nutmeg
 * oil or butter
-* 390mg of tomato sauce
+* 390g of tomato sauce
 * about 1 liter of water (or enough to cover the spaghetti)
 * 100gr of dry spaghetti
 
