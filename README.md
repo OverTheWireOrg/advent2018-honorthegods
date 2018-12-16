@@ -2,7 +2,7 @@
 
 *The [OverTheWire Advent Bonanza 2018](https://advent2018.overthewire.org) challenge for Thursday 13 December 2018*
 
-**Today we honor the Flying Spaghetti Monster by cooking a meal in its image.<br>
+**Today we honor the Flying Spaghetti Monster by cooking a meal in His image.<br>
 To receive the flag for this challenge, prepare the following dish (or a<br>
 variant that fits your dietary requirements) and publically post a picture<br>
 with accompanying nametag to twitter, with [@OverTheWireCTF](https://twitter.com/OverTheWireCTF) in CC.**
