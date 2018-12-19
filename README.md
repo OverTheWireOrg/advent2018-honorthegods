@@ -11,6 +11,11 @@ with accompanying nametag to twitter, with [@OverTheWireCTF](https://twitter.com
 In that case, post a youtube video as proof, showing how you did it, including the<br>
 handwritten note.**
 
+
+**UPDATE (2018-12-19): For those people without twitter, we do accept submissions through IRC.
+In this case, we will post your picture/video on the @OverTheWireCTF twitter account and send
+you the flag through IRC.**
+
 ### Ingredients
 
 to serve 2.38 people:
